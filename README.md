@@ -20,4 +20,4 @@ Fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
-Copyright Conde 2021
+Copyright Conde 2021. All rights reserved.
