@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Carlo Conde conde_carlo@yahoo.com
 
 # THANKS
 
