@@ -8,6 +8,7 @@
 # THANKS
 
     Papa God
+    Sample for stashing untracked files
 
 # TECHNOLOGY COLOPHON
 
