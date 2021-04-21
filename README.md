@@ -16,6 +16,8 @@ This is a simple web project, deployment can be on any web server or even local 
 
 ## How to Contribute
 
+Fork this repository and then issue Pull Requests for review.
+
 ### Copyright
 
 Copyright Conde 2021
